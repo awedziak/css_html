@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Usługi obiektu 7w</h2>
+    <article>
+       komputery z windowsem xp 
+    </article>
+    <article>
+        pan siwka we wlasnej osobie
+    </article>
+    <article>
+        wygodna wykladzina za wielka sume pieniezna
+    </article>
+    <a href="file:///D:/tme/taisi/repos/css_html/html.html">poprzednia strona warsztat</a>
+    <a href="file:///D:/tme/taisi/repos/css_html/html2.html">poprzednia strona prowadzący</a>
+</body>
+</html>
